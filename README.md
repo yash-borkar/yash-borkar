@@ -43,7 +43,7 @@
 <h3 align="left">Github States:</h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yash-borkar&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" alt="Yash's github stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yash-borkar&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" alt="Yash's GitHub stats" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/yash-borkar/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-borkar&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="Top Languages" />
