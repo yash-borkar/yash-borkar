@@ -6,7 +6,7 @@
 <p>🌱 I’m currently learning <strong>System Design & Web3</strong></p>
 <p>👨‍💻 All of my projects are available at <a href="https://github.com/yash-borkar">https://github.com/yash-borkar</a></p>
 <p>💬 Ask me about <strong>C++, Java, Data Structures, Algorithms, Full Stack Development</strong></p>
-<p>📫 How to reach me: <strong>yash.borkarr@gmail.com</strong></p>
+<p>📫 How to reach me: <strong><a href="mailto:yash.borkarr@gmail.com">yash.borkarr@gmail.com</a></strong></p>
 <p>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1OcudfXW1qCN6Bv5mpRHdUbkblgHqHXLK/view?usp=sharing">Resume Link</a></p>
 <p>⚡ Fun fact: <strong>Solving algorithmic problems is like solving puzzles with logic—always thrilling!</strong></p>
 
