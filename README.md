@@ -1,36 +1,42 @@
 <h1 align="center">Hi 👋, I'm Yash Borkar</h1>
-<h3 align="center">Full Stack Developer 🚀  Competitive Coder 🔥 </h3>
+<h3 align="center">Full Stack Developer 🚀  Competitive Coder 💻 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-borkar&label=Profile%20views&color=0e75b6&style=flat" alt="yash-borkar" /> </p>
+<p>🔭 I’m currently working on <strong>Full Stack Projects & Algorithm Optimization</strong></p>
+<p>🌱 I’m currently learning <strong>System Design & Web3</strong></p>
+<p>👨‍💻 All of my projects are available at <a href="https://github.com/yash-borkar">https://github.com/yash-borkar</a></p>
+<p>💬 Ask me about <strong>C++, Java, Data Structures, Algorithms, Full Stack Development</strong></p>
+<p>📫 How to reach me: <strong>yash.borkarr@gmail.com</strong></p>
+<p>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1i2RkkYoQvZx-rAdkwbCzRAHResumelink/view?usp=sharing">Resume Link</a></p>
+<p>⚡ Fun fact: <strong>Solving algorithmic problems is like solving puzzles with logic—always thrilling!</strong></p>
 
-- 🔭 I’m currently working on **Full Stack Projects & Algorithm Optimization**
-
-- 🌱 I’m currently learning **System Design & Web3**
-
-- 👨‍💻 All of my projects are available at [https://github.com/yash-borkar](https://github.com/yash-borkar)
-
-- 💬 Ask me about **C++, Java, Data Structures, Algorithms, Full Stack Development**
-
-- 📫 How to reach me **yash.borkarr@gmail.com**
-
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1i2RkkYoQvZx-rAdkwbCzRAHResumelink/view?usp=sharing)
-
-- ⚡ Fun fact: **Solving algorithmic problems is like solving puzzles with logic—always thrilling!**
 
 ---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yashborkar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="yashborkar" height="40" width="50" /></a>
-<a href="mailto:yash.borkarr@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="yashborkar" height="40" width="50" /></a>
-<a href="https://www.codechef.com/users/yash_borkarr" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" alt="yash_borkarr" height="40" width="50" /></a>
-<a href="https://codeforces.com/profile/yash.borkarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yash.borkarr" height="40" width="50" /></a>
-<a href="https://leetcode.com/u/imyash_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imyash_b" height="40" width="50" /></a>
-<a href="https://www.geeksforgeeks.org/user/imyash_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="imyash_b" height="40" width="50" /></a>
-
+<a href="https://linkedin.com/in/yashborkar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="yashborkar" height="40" width="50" /></a> &nbsp;
+<a href="mailto:yash.borkarr@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="yashborkar" height="40" width="50" /></a> &nbsp;
+<a href="https://github.com/yash-borkar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="yash-borkar" height="40" width="40" /></a> &nbsp;
+<a href="https://instagram.com/yash.borkarr" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="yash.borkarr" height="40" width="40" /></a> &nbsp;
 </p>
 
+
 ---
+
+
+<h3 align="left">Coding Profiles:</h3>
+<p align="left">
+      <a href="https://leetcode.com/u/imyash_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imyash_b" height="40" width="50" /></a> &nbsp;
+      <a href="https://www.geeksforgeeks.org/user/imyash_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="imyash_b" height="40" width="50" /></a> &nbsp;
+      <a href="https://www.codechef.com/users/yash_borkarr" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" alt="yash_borkarr" height="40" width="50" /></a> &nbsp;
+      <a href="https://codeforces.com/profile/yash.borkarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yash.borkarr" height="40" width="50" /></a> &nbsp;
+</p>
+
+
+---
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -50,20 +56,17 @@
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
 </p>
 
----
 
+---
 
 <h3 align="left">Achievements:</h3>
-- 🏆 **First Rank** in Datathon (2024)  
-- 🏆 **Best Performer** in Nirmaan 2.0 Hackathon  
-- 🏆 **Top 100 Teams** in Codebrewers by Tally Solutions  
-- 🏆 **First Rank** in Code Velocity (2023)  
-- 🏆 **First Runner-Up** in Techsprint (2023)
+<p>🥇 <strong>First Rank</strong> in Datathon (2024)</p>
+<p>🎖️ <strong>Best Performer</strong> in Nirmaan 2.0 Hackathon</p>
+<p>💯 <strong>Top 100 Teams</strong> in Codebrewers by Tally Solutions</p>
+<p>🏆 <strong>First Rank</strong> in Code Velocity (2023)</p>
+<p>🥈 <strong>First Runner-Up</strong> in Techsprint (2023)</p>
+
 
 ---
 
-<h3 align="left">Coding Profiles:</h3>
-<p align="left">
-    <a href="https://www.codechef.com/users/yashborkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
-    <a href="https://github.com/yash-borkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
-</p>
+
