@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yash Borkar</h1>
 <h3 align="center">Full Stack Developer 🚀  Competitive Coder 💻 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-borkar&label=Profile%20views&color=0e75b6&style=flat" alt="yash-borkar" /> </p>
+<p></p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=yash-borkar&label=Profile%20views&color=0e75b6&style=flat" alt="yash-borkar" /> </p>
+
 <p>🔭 I’m currently working on <strong>Full Stack Projects & Algorithm Optimization</strong></p>
 <p>🌱 I’m currently learning <strong>System Design & Web3</strong></p>
 <p>👨‍💻 All of my projects are available at <a href="https://github.com/yash-borkar">https://github.com/yash-borkar</a></p>
