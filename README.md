@@ -40,6 +40,27 @@
 ---
 
 
+<h3 align="left">Github States:</h3>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" alt="Apoorv's github stats" />
+    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="Top Languages" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark" alt="GitHub Streak" />
+    </a>
+</p>
+
+
+
+---
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
       <img src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt.svg" alt="c" width="55" height="55"/> &nbsp;
