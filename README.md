@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Borkar</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Yash Borkar</h1>
 <h3 align="center">Full Stack Developer 🚀  Competitive Coder 💻 </h3>
 
 <p></p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=yash-borkar&label=Profile%20views&color=0e75b6&style=flat" alt="yash-borkar" /> </p>
