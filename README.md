@@ -33,7 +33,7 @@
       <a href="https://leetcode.com/u/imyash_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imyash_b" height="40" width="50" /></a> &nbsp;
       <a href="https://www.geeksforgeeks.org/user/imyash_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="imyash_b" height="40" width="50" /></a> &nbsp;
       <a href="https://www.codechef.com/users/yash_borkarr" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" alt="yash_borkarr" height="40" width="50" /></a> &nbsp;
-      <a href="https://codeforces.com/profile/yash.borkarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yash.borkarr" height="40" width="50" /></a> &nbsp;
+      <a href="https://codeforces.com/profile/yash.borkarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yash.borkarr" height="50" width="50" /></a> &nbsp;
 </p>
 
 
