@@ -83,6 +83,14 @@
 ---
 
 
+<h3 align="left">GitHub Trophies:</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yash-borkar&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/yash-borkar)
+
+
+---
+
+
 <h3 align="left">Achievements:</h3>
 <p>🥇 <strong>First Rank</strong> in Datathon (2024)</p>
 <p>🎖️ <strong>Best Performer</strong> in Nirmaan 2.0 Hackathon</p>
