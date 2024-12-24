@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/yashborkar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="yashborkar" height="40" width="50" /></a> &nbsp;
 <a href="mailto:yash.borkarr@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="yashborkar" height="40" width="50" /></a> &nbsp;
 <a href="https://github.com/yash-borkar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="yash-borkar" height="40" width="40" /></a> &nbsp;
-<a href="https://instagram.com/yash.borkarr" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="yash.borkarr" height="40" width="40" /></a> &nbsp;
+<a href="https://instagram.com/y4shh.b" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="yash.borkarr" height="40" width="40" /></a> &nbsp;
 </p>
 
 
