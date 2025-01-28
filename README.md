@@ -5,7 +5,7 @@
 
 <p>🎓 I’m a third-year Computer Science student working on <strong>Full Stack Projects & Algorithm Optimization!</strong></p>
 <p>🌱 I’m currently learning <strong>System Design & Web3</strong></p>
-<p>🚀 All of my projects are available at <a href="https://github.com/yash-borkar">https://github.com/yash-borkar</a></p>
+<p>🚀 All of my projects are available at <a href="https://github.com/yash-borkar?tab=repositories">https://github.com/yash-borkar</a></p>
 <p>👨‍💻 Check out all my coding stats and progress at <a href="https://codolio.com/profile/yash.borkar">https://codolio.com/profile/yash.borkar</a></p>
 <p>💬 Ask me about <strong>C++, Java, Data Structures, Algorithms, Full Stack Development</strong></p>
 <p>♟ We can connect to play some games of <strong>Chess</strong></p>
